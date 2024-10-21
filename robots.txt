@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iltostiot.github.io/iltostiot.txt.gz
+Sitemap: https://iltostiot.github.io/app/iltostiot.txt.gz
+Sitemap: https://iltostiot.github.io/assets/iltostiot.txt.gz
+Sitemap: https://iltostiot.github.io/css/iltostiot.txt.gz
+Sitemap: https://iltostiot.github.io/includes/iltostiot.txt.gz
+Sitemap: https://iltostiot.github.io/item/iltostiot.txt.gz
+Sitemap: https://iltostiot.github.io/src/iltostiot.txt.gz
